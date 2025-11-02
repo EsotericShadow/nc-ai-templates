@@ -188,6 +188,6 @@ These templates are provided as-is. They are not official ISO standards or regul
 
 ---
 
-**Last Updated**: Q1 2026  
+**Last Updated**: Q4 2025  
 **Status**: Draft for Public Comment v1.0
 
