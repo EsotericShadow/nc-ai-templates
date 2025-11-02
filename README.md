@@ -16,15 +16,15 @@ This repository publishes the **Northern Cascadia AI Risk Standard (NC-AI-001)**
 
 ### NC-AI-001: AI Risk Register Template
 
-**Version**: v1.0 (Draft for Public Comment)  
+**Version**: v1.0 Draft (Draft for Public Comment)  
 **Publication Date**: 2025-11-02  
 **Status**: Open for comment until 2026-02-02  
 **Review Period**: 90 days
 
 **Quick Links**:
-- [Download Template](NC-AI-001-Complete-Template.md) (Markdown)
-- [CSV Version](NC-AI-001-Risk-Data.csv) (for Excel import)
-- [Full Documentation](NC-AI-001-Complete-Template.md)
+- [Download Template](https://github.com/EsotericShadow/nc-ai-templates/blob/main/NC-AI-001-Complete-Template.md) (Markdown - view on GitHub)
+- [Download CSV](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Risk-Data.csv) (CSV - direct download for Excel)
+- [Raw Markdown Template](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Complete-Template.md) (direct download)
 
 ---
 
@@ -75,9 +75,12 @@ A comprehensive risk register template with **28 pre-populated AI risks** across
 
 ## Quick Start
 
-1. **Download** the template: [NC-AI-001-Complete-Template.md](NC-AI-001-Complete-Template.md)
+1. **Download** the template:
+   - [View Template on GitHub](https://github.com/EsotericShadow/nc-ai-templates/blob/main/NC-AI-001-Complete-Template.md) (read online)
+   - [Download Raw Template](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Complete-Template.md) (save as .md file)
 2. **Review** the template structure and pre-populated risks
-3. **Import** CSV into Excel if you prefer spreadsheet format: [NC-AI-001-Risk-Data.csv](NC-AI-001-Risk-Data.csv)
+3. **Import CSV into Excel** if you prefer spreadsheet format:
+   - [Download CSV](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Risk-Data.csv) (direct download - right-click and "Save As")
 4. **Fill out** risk assessments for your AI systems
 5. **Submit feedback** if you have suggestions
 
@@ -196,12 +199,17 @@ This work is dedicated to the public domain. You are free to:
 
 ```
 nc-ai-templates/
-├── README.md (this file)
-├── LICENSE (Public Domain)
-├── NC-AI-001-Complete-Template.md (main template)
-├── NC-AI-001-Risk-Data.csv (CSV version)
+├── README.md (this file - main documentation)
+├── LICENSE (Public Domain - CC0)
+├── NC-AI-001-Complete-Template.md (main template - 28 risks, 8 categories)
+├── NC-AI-001-Risk-Data.csv (CSV version for Excel import)
 └── [Future standards: NC-AI-002, NC-AI-003, etc.]
 ```
+
+**Download Files**:
+- [NC-AI-001-Complete-Template.md](https://github.com/EsotericShadow/nc-ai-templates/blob/main/NC-AI-001-Complete-Template.md) - Full template (view)
+- [NC-AI-001-Complete-Template.md](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Complete-Template.md) - Full template (download)
+- [NC-AI-001-Risk-Data.csv](https://github.com/EsotericShadow/nc-ai-templates/raw/main/NC-AI-001-Risk-Data.csv) - CSV for Excel (download)
 
 **Documentation**: Complete usage instructions are included in the template file.
 
