@@ -6,7 +6,7 @@
 **Template**: Northern Cascadia AI Governance Template NC-AI-001  
 **Title**: AI Risk Register Template  
 **Version**: 1.0 Draft  
-**Publication Date**: Q1 2026  
+**Publication Date**: Q4 2025  
 **Publisher**: Kaizen Strategic AI  
 **Based On**: ISO 42001:2023 (AI Management Systems) - Works WITH ISO, does not replace it  
 **License**: Public Domain - Free for use and adaptation
@@ -1120,7 +1120,7 @@ This template is published as **Draft for Public Comment v1.0**. Your feedback h
 
 ### Version History
 
-**v1.0 Draft** (Q1 2026):
+**v1.0 Draft** (Q4 2025):
 - Initial publication
 - 28 pre-populated risks
 - 8 risk categories
