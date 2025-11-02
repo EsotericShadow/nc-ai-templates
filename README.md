@@ -1,94 +1,222 @@
-# NC-AI Templates
+# Northern Cascadia AI Governance Standards
 
-**Northern Cascadia AI Governance Templates**
+**NC-AI Templates Repository**
 
-ISO 42001:2023-aligned templates for AI risk management and governance in Northern BC / Northern Cascadia.
-
-**Status**: Draft for Public Comment  
-**License**: Public Domain - Free to use and adapt  
-**Publisher**: Kaizen Strategic AI
+This repository publishes draft standards and frameworks for AI governance in Northern Cascadia, aligned with ISO 42001:2023 for regional implementation.
 
 ---
 
-## What This Is
+## Mission Statement
 
-Professional templates for AI governance aligned with ISO 42001:2023 standards. These practical tools are designed for Northern BC businesses and organizations implementing AI systems, with specific consideration for Indigenous governments and communities in Northern Cascadia.
+This repository publishes the **Northern Cascadia AI Risk Standard (NC-AI-001)** — a regional framework aligned with ISO 42001 for AI governance in Northern BC and beyond. These standards are designed to provide practical, accessible tools for organizations implementing AI systems in Northern Cascadia.
 
 ---
 
-## Available Templates
+## Current Release
 
 ### NC-AI-001: AI Risk Register Template
-**Version**: 1.0 Draft  
-**Status**: Draft for Public Comment
 
-A comprehensive template with 28 pre-populated AI risks across 8 categories:
-- Bias and Fairness (4 risks)
-- Security and Privacy (5 risks)
-- Transparency and Explainability (4 risks)
-- Data Quality and Integrity (4 risks)
-- Regulatory Compliance (4 risks)
-- Operational Risks (4 risks)
-- Human Impact and Safety (4 risks)
-- Third-Party and Vendor (4 risks)
+**Version**: v1.0 (Draft for Public Comment)  
+**Publication Date**: 2025-11-02  
+**Status**: Open for comment until 2026-02-02  
+**Review Period**: 90 days
+
+**Quick Links**:
+- [Download Template](NC-AI-001-Complete-Template.md) (Markdown)
+- [CSV Version](NC-AI-001-Risk-Data.csv) (for Excel import)
+- [Full Documentation](NC-AI-001-Complete-Template.md)
+
+---
+
+## Scope & Jurisdiction
+
+**Primary Jurisdiction**: Northern BC (north of Prince George)
+
+**Geographic Scope**:
+- Municipalities: Terrace, Kitimat, Prince Rupert, Smithers, and surrounding communities
+- Indigenous Territories: First Nations governments and communities throughout Northern BC
+- Regional Organizations: Northern Cascadia region
+
+**Extensibility**: The principles in these standards may be extended to other remote northern economies across the Pacific Northwest.
+
+**Indigenous Inclusion**: These standards acknowledge Indigenous sovereignty and data rights. Indigenous governments have jurisdiction over AI governance on their territories. Future versions will include multi-language support for Indigenous languages.
+
+---
+
+## What's Included
+
+### NC-AI-001: AI Risk Register Template
+
+A comprehensive risk register template with **28 pre-populated AI risks** across **8 categories**:
+
+1. **Bias and Fairness** (4 risks)
+2. **Security and Privacy** (5 risks)
+3. **Transparency and Explainability** (4 risks)
+4. **Data Quality and Integrity** (4 risks)
+5. **Regulatory Compliance** (4 risks)
+6. **Operational Risks** (4 risks)
+7. **Human Impact and Safety** (4 risks)
+8. **Third-Party and Vendor** (4 risks)
+
+**Features**:
+- ISO 42001:2023 aligned
+- Risk scoring matrix (5×5 scale)
+- Impact and likelihood assessments
+- Control documentation framework
+- Treatment tracking system
 
 **Formats Available**:
 - Markdown (`.md`) - Source format
-- CSV (`.csv`) - For Excel import
-- PDF (coming soon)
-- Word (coming soon)
+- CSV (`.csv`) - For Excel/Google Sheets import
+- PDF (available in publication package)
+- Word (available in publication package)
 
 ---
 
 ## Quick Start
 
-1. **Download** the template files
-2. **Review** `NC-AI-001-README.md` for usage instructions
-3. **Import** CSV into Excel if you prefer spreadsheet format
-4. **Fill out** the risk assessments for your AI systems
-5. **Provide feedback** if you have suggestions
+1. **Download** the template: [NC-AI-001-Complete-Template.md](NC-AI-001-Complete-Template.md)
+2. **Review** the template structure and pre-populated risks
+3. **Import** CSV into Excel if you prefer spreadsheet format: [NC-AI-001-Risk-Data.csv](NC-AI-001-Risk-Data.csv)
+4. **Fill out** risk assessments for your AI systems
+5. **Submit feedback** if you have suggestions
 
 ---
 
 ## How to Use
 
-### For Small Businesses
+### For Small-Medium Businesses
 - Start with the Markdown template
-- Fill in risk assessments
-- Use the risk scoring matrix provided
-- Track controls and mitigation
+- Review all 28 pre-populated risks
+- Assess which risks apply to your AI systems
+- Fill in impact, likelihood, and risk scores
+- Document controls and mitigation strategies
+- Track implementation progress
 
 ### For Large Organizations
-- Import CSV into Excel/Sheets
-- Customize risk categories if needed
-- Use for multiple AI systems
-- Integrate with existing risk management
+- Import CSV into Excel or your risk management system
+- Customize risk categories for your industry
+- Use for multiple AI systems across the organization
+- Integrate with existing governance frameworks
+- Generate reports for management
 
-### For Consultants
-- Use as reference material
-- Customize for client needs
-- Cite as "NC-AI-001 Draft for Public Comment"
-- Provide feedback based on real-world usage
+### For Consultants & Advisors
+- Use as reference material for client engagements
+- Customize templates for specific industries
+- Cite as "NC-AI-001 Draft for Public Comment v1.0"
+- Provide feedback based on real-world implementation experience
+
+### For Indigenous Governments
+- Adapt templates for your specific jurisdiction
+- Consider data sovereignty requirements
+- Engage with us for partnership opportunities
+- Provide feedback from your governance perspective
 
 ---
 
-## Feedback and Versioning
+## Submit Feedback
 
 **This is Draft for Public Comment v1.0**
 
-We welcome feedback:
-- What's useful?
-- What's missing?
-- What's unclear?
-- How can we improve?
+We welcome feedback during the comment period (through 2026-02-02):
 
-**Provide Feedback**:
-- Open an Issue on this repository
-- Email: [Your email]
+**Ways to provide feedback**:
+- **GitHub Issues**: [Open an Issue](https://github.com/EsotericShadow/nc-ai-templates/issues/new) (preferred)
+- **Email**: governance@kaizenstrategic.ai
+- **GitHub Discussions**: [Start a Discussion](https://github.com/EsotericShadow/nc-ai-templates/discussions)
+
+**What feedback we're looking for**:
+- Is this template useful for your organization?
+- What's missing or unclear?
+- What would make it better?
+- ISO 42001 compliance issues or gaps?
+- Real-world usage experiences and challenges?
+- Suggestions for future versions
+
+**Feedback Process**:
+- All comments will be reviewed
+- Significant feedback will be incorporated into v1.1
+- Updated versions will be published quarterly
+
+---
+
+## Governance & Authorship
+
+**Developed by**: Kaizen Strategic AI (Terrace, BC)  
+**Published by**: Northern Cascadia Institute of AI Governance
+
+**Mission**: Moving the North forward through Digital Strategy
+
+**Contact**: 
 - Website: kaizenstrategic.ai (coming soon)
+- Email: governance@kaizenstrategic.ai
 
-**Version History**:
-- **v1.0 Draft** (Q4 2025): Initial publication
+**Contributors**: This is an open initiative. Contributions and partnerships welcome.
+
+**Acknowledgements**: 
+- Based on ISO 42001:2023 (AI Management Systems)
+- Aligned with ISO 23894 (AI Risk Management)
+- Informed by ISO 31000 (Risk Management Principles)
+- Real-world implementation insights from Northern BC organizations
+
+---
+
+## Version History
+
+| Version | Date | Status | Changes |
+|---------|------|--------|---------|
+| v1.0 | 2025-11-02 | Draft for Public Comment | Initial publication - 28 risks across 8 categories |
+
+**Next Version**: v1.1 (expected Q1 2026, subject to feedback)
+
+---
+
+## License & Usage Rights
+
+**License**: Public Domain (CC0)
+
+This work is dedicated to the public domain. You are free to:
+
+- ✅ Use for any purpose (commercial or non-commercial)
+- ✅ Modify and adapt for your needs
+- ✅ Share and redistribute
+- ✅ Cite in your documentation
+
+**Attribution**: Appreciated but not required. If citing:
+
+> Northern Cascadia AI Governance Standard NC-AI-001 v1.0 (Draft for Public Comment). Kaizen Strategic AI / Northern Cascadia Institute of AI Governance. 2025.
+
+**Citation Format**:
+- **Academic**: Northern Cascadia Institute of AI Governance. (2025). NC-AI-001: AI Risk Register Template v1.0 (Draft for Public Comment). Kaizen Strategic AI.
+- **Informal**: NC-AI-001 v1.0, Northern Cascadia Institute, 2025
+
+---
+
+## Repository Structure
+
+```
+nc-ai-templates/
+├── README.md (this file)
+├── LICENSE (Public Domain)
+├── NC-AI-001-Complete-Template.md (main template)
+├── NC-AI-001-Risk-Data.csv (CSV version)
+└── [Future standards: NC-AI-002, NC-AI-003, etc.]
+```
+
+**Documentation**: Complete usage instructions are included in the template file.
+
+---
+
+## Based On & Standards Alignment
+
+These templates are aligned with:
+
+- **ISO 42001:2023** (AI Management Systems) - Primary alignment
+- **ISO 23894** (AI Risk Management) - Risk assessment framework
+- **ISO 31000** (Risk Management Principles) - Risk management approach
+- **ISO 42005** (AI System Impact Assessment) - Impact assessment considerations
+
+**Important**: These templates work **WITH** ISO standards, they do not replace them. Always use alongside official ISO documentation and certification processes.
 
 ---
 
@@ -97,97 +225,80 @@ We welcome feedback:
 - Northern BC businesses implementing AI systems
 - Indigenous governments managing AI on their territories
 - Organizations pursuing ISO 42001 certification
-- Consultants advising on AI governance
+- Consultants and advisors working with Northern BC organizations
 - Anyone managing AI risks in Northern Cascadia
 
 ---
 
-## Based On
+## Roadmap
 
-- **ISO 42001:2023** (AI Management Systems)
-- **ISO 23894** (AI Risk Management)
-- **ISO 31000** (Risk Management Principles)
-- Real-world implementation insights
+**Current**:
+- ✅ NC-AI-001: AI Risk Register Template (v1.0 Draft)
 
-**Important**: These templates work **WITH** ISO standards, they don't replace them. Use alongside official ISO documentation.
+**Planned** (subject to community feedback):
+- NC-AI-002: AI Impact Assessment Framework
+- NC-AI-003: AI Governance Policy Template
+- NC-AI-004: AI Vendor Assessment Tool
+- NC-AI-005: AI Incident Response Procedure
 
----
-
-## License
-
-**Public Domain**
-
-This work is dedicated to the public domain. Use, modify, and share freely. Attribution appreciated but not required.
-
----
-
-## About
-
-Created by **Kaizen Strategic AI** (Terrace, BC)
-
-**Mission**: Moving the North forward through Digital Strategy
-
-**Contact**: kaizenstrategic.ai | governance@kaizenstrategic.ai
+**Future Considerations**:
+- Industry-specific versions (Mining, Healthcare, etc.)
+- Multi-language support (Indigenous languages)
+- Excel workbooks with pre-formulated templates
+- Integration with common risk management platforms
 
 ---
 
-## Geographic Focus
+## Contributing & Partnerships
 
-**Northern Cascadia / Northern BC**
+**We welcome**:
+- Feedback and suggestions
+- Real-world usage experiences
+- Partnership opportunities
+- Industry-specific adaptations
+- Translations and localization
 
-These templates are designed for the Northern Cascadia region, including:
+**Partnership Opportunities**:
+- Indigenous governments: Collaborative development of governance frameworks
+- Industry associations: Sector-specific adaptations
+- Educational institutions: Research and validation
+- Certification bodies: Alignment and validation
 
-**Municipalities**:
-- Terrace, BC
-- Kitimat, BC
-- Prince Rupert, BC
-- Smithers, BC
-- And surrounding Northern BC communities
-
-**Indigenous Territories**:
-- First Nations governments and communities throughout Northern BC
-- Indigenous organizations managing AI systems on their territories
-- Partnership-focused approach to AI governance
-
-**Why Indigenous Inclusion Matters**:
-- Indigenous governments have jurisdiction over AI governance on their territories
-- Significant Indigenous population in Northern BC/Northern Cascadia
-- Indigenous data sovereignty is a critical consideration for AI systems
-- These templates acknowledge Indigenous rights and perspectives
-- Future versions will include multi-language support for Indigenous languages
-
-**Partnership Opportunities**: We welcome collaboration with Indigenous governments to develop governance frameworks that respect Indigenous sovereignty and data rights.
-
----
-
-## Contributing
-
-Feedback and contributions welcome:
-1. Open an Issue for feedback or questions
-2. Suggest improvements
-3. Share real-world usage experiences
-4. Report errors or gaps
-
-**Remember**: This is draft for public comment. Your input shapes future versions.
+**Contact**: governance@kaizenstrategic.ai
 
 ---
 
 ## Disclaimer
 
-These templates are provided as-is. They are not official ISO standards or regulatory requirements. Always consult appropriate legal, compliance, and technical experts for your specific situation.
+These templates are provided "as-is" for informational and educational purposes. They are not official ISO standards or regulatory requirements. Always consult appropriate legal, compliance, and technical experts for your specific situation.
 
-**Use at your own risk.** These templates are tools, not guarantees.
+**Not Legal Advice**: These templates do not constitute legal, compliance, or professional advice. Users are responsible for ensuring compliance with all applicable laws and regulations.
 
----
-
-## Links
-
-- **Website**: kaizenstrategic.ai (coming soon)
-- **Template Package**: See releases/downloads
-- **ISO 42001**: Official ISO documentation
+**Use at Your Own Risk**: These templates are tools to assist in risk management, not guarantees of compliance or risk elimination.
 
 ---
 
-**Last Updated**: Q4 2025  
-**Status**: Draft for Public Comment v1.0
+## Support
+
+**Questions?**
+- Review the template documentation
+- Open a GitHub Issue
+- Email: governance@kaizenstrategic.ai
+
+**Need Help Using the Template?**
+- See usage instructions in the template file
+- Check the CSV version for Excel import guidance
+- Contact us for consulting support
+
+---
+
+**Last Updated**: 2025-11-02  
+**Status**: Draft for Public Comment v1.0  
+**Comment Period**: Through 2026-02-02
+
+---
+
+**Repository**: [nc-ai-templates](https://github.com/EsotericShadow/nc-ai-templates)  
+**Website**: kaizenstrategic.ai (coming soon)  
+**Contact**: governance@kaizenstrategic.ai
 
