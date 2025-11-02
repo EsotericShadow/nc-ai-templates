@@ -12,9 +12,7 @@ ISO 42001:2023-aligned templates for AI risk management and governance in Northe
 
 ## What This Is
 
-Professional templates for AI governance that work **WITH** ISO 42001 standards, not replacing them. These are practical tools for Northern BC businesses implementing AI systems.
-
-**Not claiming to be official standards.** These are templates. Authority comes through community adoption and feedback, not declaration.
+Professional templates for AI governance aligned with ISO 42001:2023 standards. These practical tools are designed for Northern BC businesses and organizations implementing AI systems, with specific consideration for Indigenous governments and communities in Northern Cascadia.
 
 ---
 
@@ -96,7 +94,8 @@ We welcome feedback:
 
 ## Who This Is For
 
-- Northern BC businesses implementing AI
+- Northern BC businesses implementing AI systems
+- Indigenous governments managing AI on their territories
 - Organizations pursuing ISO 42001 certification
 - Consultants advising on AI governance
 - Anyone managing AI risks in Northern Cascadia
@@ -135,13 +134,29 @@ Created by **Kaizen Strategic AI** (Terrace, BC)
 ## Geographic Focus
 
 **Northern Cascadia / Northern BC**
+
+These templates are designed for the Northern Cascadia region, including:
+
+**Municipalities**:
 - Terrace, BC
 - Kitimat, BC
 - Prince Rupert, BC
 - Smithers, BC
-- And surrounding Northern BC region
+- And surrounding Northern BC communities
 
-These templates are built with Northern BC businesses in mind, but can be adapted for any region.
+**Indigenous Territories**:
+- First Nations governments and communities throughout Northern BC
+- Indigenous organizations managing AI systems on their territories
+- Partnership-focused approach to AI governance
+
+**Why Indigenous Inclusion Matters**:
+- Indigenous governments have jurisdiction over AI governance on their territories
+- Significant Indigenous population in Northern BC/Northern Cascadia
+- Indigenous data sovereignty is a critical consideration for AI systems
+- These templates acknowledge Indigenous rights and perspectives
+- Future versions will include multi-language support for Indigenous languages
+
+**Partnership Opportunities**: We welcome collaboration with Indigenous governments to develop governance frameworks that respect Indigenous sovereignty and data rights.
 
 ---
 
