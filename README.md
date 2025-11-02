@@ -88,7 +88,7 @@ We welcome feedback:
 - Website: kaizenstrategic.ai (coming soon)
 
 **Version History**:
-- **v1.0 Draft** (Q1 2026): Initial publication
+- **v1.0 Draft** (Q4 2025): Initial publication
 
 ---
 
